@@ -1,0 +1,2 @@
+in the github site, "add file" -> "Create new filel" clicked menu, and new file edited
+Designated file name is new_file1.txt, screan under, Clicked make new file "commit new file"
